@@ -1,6 +1,6 @@
 Mô tả: Website kho ứng dụng di động
 
-3. Link đã deploy:
+Link đã deploy:
 	- https://application-store-tdtu.herokuapp.com/
 	- Tài khoản admin: admin@gmail.com, mật khẩu: admin123
 	- Tài khoản developer1 : duyvo242@gmail.com, mật khẩu: 123456
